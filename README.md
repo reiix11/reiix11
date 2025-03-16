@@ -38,7 +38,7 @@ class Attributes:
     def coding() -> tuple:
         languages    = ['Python', 'Golang']
         specialities = ['Automation', 'Web Scraping', 'Skidding']
-        text_editor   = ['Visual Studio Code', 'PyCharm']
+        text_editor  = ['Visual Studio Code', 'PyCharm']
 
         return languages, specialities, text_editor
 ```
